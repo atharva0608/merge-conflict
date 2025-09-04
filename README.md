@@ -1,2 +1,4 @@
-# merge-conflict
-# merge-conflict
+# My Project
+
+This is the MAIN BRANCH version.
+
