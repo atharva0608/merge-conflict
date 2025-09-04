@@ -1,4 +1,4 @@
 # My Project
 
-This is the CONFLICT & BRANCH version.
+This is the BRANCH version.
 
